@@ -112,6 +112,8 @@ const techStacks = [
   { icon: "firebase.svg", language: "Firebase" },
   { icon: "MUI.svg", language: "Material UI" },
   { icon: "vercel.svg", language: "Vercel" },
+  { icon: "shadcn-ui.png", language: "Shadcn UI" },
+
   // { icon: "SweetAlert.svg", language: "SweetAlert2" },
 ];
 
